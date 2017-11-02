@@ -1,0 +1,203 @@
+@font-face{
+	font-family: BookmanRegular;
+	src: url(../fonts/BookmanRegular.ttf);
+}
+
+body{
+	font-family: 'BookmanRegular';
+}
+
+a:hover, a:focus, a:active{
+	text-decoration: none!important;
+} 
+
+.header_leoplannet{
+	background-color: #262626;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 999999999;
+}
+
+.header-img-logo{
+	width: 40px;
+}
+
+.leoplannet-header-row-p-a{
+	color: #FFC400;
+}
+
+.leoplannet-header-row-p-l{
+	color: white;
+}
+
+.col-header-blogleoplannet{
+	display: -webkit-inline-box;
+}
+
+.leoplannet-header-row-p{
+	margin: 16px 0px 0px;
+	font-size: 15px;
+    font-family: initial;
+    font-weight: bold;
+}
+
+.leoplannet-header-row-p-a:hover, .leoplannet-header-row-p-a:active, .leoplannet-header-row-p-a:focus{
+	text-decoration: none;
+}
+
+.menu-navbar-blog{
+	margin-bottom: 0px;
+}
+
+.navbar-nav > li > a {
+    color: white;
+	font-weight: bold;
+	padding-left: 10px;
+    padding-right: 10px;
+}
+
+.menu-navbar-blogleoplannet:hover, .menu-navbar-blogleoplannet:focus{
+	color: #FFC400;
+	background-color: #262626;
+}
+
+.navbar-nav > li:hover, .navbar-nav > li:focus{
+	color: #FFC400;
+	background-color: #262626;
+}
+
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus{
+	color: #FFC400;
+	background-color: #262626;
+}
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    color: #FFC400;
+	background-color: #262626;
+}
+
+.dropdown:hover > .dropdown-menu { 
+    display: block; 
+} 
+
+.menu-navbar-blogleoplannet{
+	margin-bottom: 0px;
+}
+
+.container-fluid{
+	padding-left: 0px;
+}
+
+.menu-home-li-blogleoplannet{
+	padding-right: 15px;
+}
+
+.btn-blog-leoplannet-vhod-registr {
+    background-color: #f0f0f0;
+	color: #262626;
+	font-weight: bold;
+	margin-top: 9px;
+	float: right;
+    margin-right: 5px;
+}
+
+.btn-blog-leoplannet-vhod-registr:hover, .btn-blog-leoplannet-vhod-registr:focus, .btn-blog-leoplannet-vhod-registr:active {
+    background-color: #FFC400;
+    border-color: #262626;
+	color: #262626;
+	outline : none;
+}
+
+.container-blogleoplannet-vivod-statey{
+	padding-left: 6px;
+	margin-top: 75px;
+}
+
+.footer-blogleoplannet-input-1 {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    width: 62%;
+    color: #414141;
+    font-size: 16px;
+    font-weight: 300;
+    -webkit-border-radius: 6px 0 0 6px;
+    -moz-border-radius: 6px 0 0 6px;
+    -o-border-radius: 6px 0 0 6px;
+    border-radius: 6px 0 0 6px;
+    height: 42px;
+    padding-top: 9px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+	outline : none;
+}
+
+.footer-blogleoplannet-input-2 {
+    width: 25%;
+    background-color: #f0f0f0;
+    border: 1px solid #262626;
+    color: #262626;
+    font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    -webkit-border-radius: 0 6px 6px 0;
+    -moz-border-radius: 0 6px 6px 0;
+    -o-border-radius: 0 6px 6px 0;
+    border-radius: 0 6px 6px 0;
+    -webkit-transition: all 350ms ease-in-out;
+    -moz-transition: all 350ms ease-in-out;
+    -o-transition: all 350ms ease-in-out;
+    -ms-transition: all 350ms ease-in-out;
+    transition: all 350ms ease-in-out;
+}
+
+.footer-blogleoplannet-input-2:hover, .footer-blogleoplannet-input-2:active, .footer-blogleoplannet-input-2:focus{
+	background-color: #ffc400;
+}
+
+.message {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.footer-blogleoplannet-bacground{
+	background-color: #262626;
+	color: white;
+}
+
+.header-blogleoplannet-row-width{
+	width: 100%;
+}
+
+.col-lg-offset-blogleoplannet{
+	float: right;
+    padding-right: 90px;
+	padding-top: 1px;
+}
+
+.footer-blogleoplannet-social{
+	display: -webkit-inline-box;
+    list-style-type: none;
+	color: #f0f0f0;
+	padding-left: 0px;
+    margin-top: 0px;
+}
+
+.footer-blogleoplannet-social-li{
+	margin-left: 20px;
+    margin-right: 20px;
+}
+
+.blogleoplannet-glyphicon-cloud{
+	color: #262626;
+}
+
+.blogleoplannet-glyphicon-cloud:hover, .blogleoplannet-glyphicon-cloud:active, .blogleoplannet-glyphicon-cloud:focus{
+	color: #ffc400; 
+	cursor: pointer;
+}
+
+/************************* ?????? *************************/
+

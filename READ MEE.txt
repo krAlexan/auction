@@ -1,0 +1,24 @@
+√ит репозиторий дл€ проекта leoplannetauction
+
+https://github.com/
+
+логин art.leoplanet@gmail.com
+пароль leoplannet1
+
+----- назва для комітів (git commit -m "auction0,1,2,3,...+ імя виконавця")
+git commit -m "auction0Іван
+
+
+*бесплатний хостинг для тестування
+https://cp.beget.com/login
+логин o661158h
+пароль leoplannetauction
+
+*Скачать гитхаб
+https://git-for-windows.github.io/
+
+*Уроки по гитхаб
+https://www.youtube.com/watch?v=PEKN8NtBDQ0
+
+
+
